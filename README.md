@@ -1,4 +1,4 @@
-# VisualGit - SOFTENG 701 Group 3
+# VisualGit 
 
 VisualGit is a visually-oriented desktop client for Git aimed at helping students learn the standard Git workflow.
 
