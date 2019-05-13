@@ -1,4 +1,4 @@
-# VisualGit - SENG 421
+# VisualGit - SENG 421/CSC 485D/CSC 586D
 
 VisualGit is a visually-oriented desktop client for Git aimed at helping students learn the standard Git workflow.
 
